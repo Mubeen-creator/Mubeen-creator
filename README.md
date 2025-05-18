@@ -1,73 +1,54 @@
-# Welcome to your Lovable project
+# Mubeen's Portfolio Website
 
-## Project info
+Welcome to the official repository of **Mubeen's Portfolio Website** — built with modern web technologies to showcase my work as a web and mobile app developer, AI enthusiast, and content creator.
 
-**URL**: https://lovable.dev/projects/af612195-9221-4c7a-bac2-1fba542a3f3a
+## 🌐 Project Info
 
-## How can I edit this code?
+**Live URL**: [https://mubeen-creator.vercel.app/]
 
-There are several ways of editing your application.
+---
 
-**Use Lovable**
+## 🧠 About Me
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/af612195-9221-4c7a-bac2-1fba542a3f3a) and start prompting.
+Hi, I’m **Mubeen** — an 18-year-old passionate about **web development**, **mobile apps**, and **artificial intelligence**. I’ve also been actively creating and editing videos, teaching Adobe Premiere Pro, and learning technologies like **FastAPI**, **Next.js**, and **Redux Toolkit**.
 
-Changes made via Lovable will be committed automatically to this repo.
+---
 
-**Use your preferred IDE**
+## 🛠️ Tech Stack
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+This project is built using:
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+- **Next.js**
+- **TypeScript**
+- **Tailwind CSS**
+- **shadcn/ui** (component library)
+- **Lovable.dev** (for AI-powered development & deployment)
 
-Follow these steps:
+---
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
+## 🧑‍💻 How to Edit This Project
+
+### ✅ Use Lovable
+Simply open the project in [Lovable](https://lovable.dev) and start prompting!  
+All changes are automatically committed to this GitHub repo.
+
+---
+
+### 🖥️ Use Your Preferred IDE (Locally)
+
+To edit the project locally using VS Code or another IDE:
+
+#### Step-by-step:
+
+```bash
+# Step 1: Clone the repository
 git clone <YOUR_GIT_URL>
 
-# Step 2: Navigate to the project directory.
+# Step 2: Navigate to the project folder
 cd <YOUR_PROJECT_NAME>
 
-# Step 3: Install the necessary dependencies.
-npm i
+# Step 3: Install dependencies
+npm install
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+# Step 4: Run the development server
 npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/af612195-9221-4c7a-bac2-1fba542a3f3a) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
