@@ -26,18 +26,6 @@ This project is built using:
 
 ---
 
-## 🧑‍💻 How to Edit This Project
-
-### ✅ Use Lovable
-Simply open the project in [Lovable](https://lovable.dev) and start prompting!  
-All changes are automatically committed to this GitHub repo.
-
----
-
-### 🖥️ Use Your Preferred IDE (Locally)
-
-To edit the project locally using VS Code or another IDE:
-
 #### Step-by-step:
 
 ```bash
